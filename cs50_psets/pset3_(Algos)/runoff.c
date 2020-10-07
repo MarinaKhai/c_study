@@ -1,4 +1,6 @@
 //The program calculates a winner/winners of election in a ranked-choice voting system.
+/* Such more-than-200-lines-of-code programs are new to me and I was like wandering in woods while writing this one. 
+But so much new was opened to me and so many skills mastered. */
 
 #include <cs50.h>
 #include <stdio.h>
