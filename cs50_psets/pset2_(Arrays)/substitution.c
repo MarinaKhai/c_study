@@ -1,3 +1,7 @@
+//Another enscryption program, with a bit more tricky key
+
+//I practiced strings/arrays, iteration, general program design and logic
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>

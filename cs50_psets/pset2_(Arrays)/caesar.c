@@ -1,3 +1,7 @@
+//This is a simple encipher code which takes a string (plain text) and taken some key(number) to encrypt with, gives out cipher text.
+
+// Good for training your logical thinking as much as basic programming skills: writing loops, conditional statements, data types usage, returns, command line arguments.
+
 #include <stdio.h>
 #include <cs50.h>
 #include <ctype.h>
