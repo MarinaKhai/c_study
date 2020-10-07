@@ -1,3 +1,5 @@
+//The program calculates a winner/winners of election in a ranked-choice voting system.
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
