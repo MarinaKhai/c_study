@@ -1,6 +1,7 @@
-/* This program calculates the  number of wallpaper rolls needed for a room of user's size
-(the average sizes of 1 window and a single-leaf door are taken into account and their 
-areas are substracted*/
+/* This program calculates the number of wallpaper rolls needed for a room of user's size
+(the average sizes of 1 window and a single-leaf door are taken into account and their areas are substracted)
+The width of one roll is 1.05 and the length is 10 meters.
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
